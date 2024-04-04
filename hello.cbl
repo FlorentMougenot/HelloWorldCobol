@@ -1,8 +1,13 @@
-      * Information d'identification du programme 
+      * Information d'identification du programme
+      * Une division n'empêche pas la multiplication d'information
+      * Voire meme une addition
+      * Ou une soustraction
+      * Pour identifier on a pensé à appeler le FBI mais en fait non
        IDENTIFICATION DIVISION.
       * On définit le nom du programme
        PROGRAM-ID. hello.
-      * Aucune information spécifique sur l'environnement n'est définie.
+      * Aucune information spécifique sur l'environnement n'est définie
+      * Par division d'environnement on ne parle pas de déforestation
        ENVIRONMENT DIVISION.
       * Section qui concerne les définitions de données utilisées
        DATA DIVISION.
