@@ -16,7 +16,7 @@
        01 PRENOM PIC X(20).
        01 NOM PIC X(20).
        01 WESH PIC X(11) VALUE "Wesh wesh, ".
-       01 MESSAG PIC X(50).
+       01 MESSAG PIC X(51).
 
        PROCEDURE DIVISION.
       * Saisie du prénom
